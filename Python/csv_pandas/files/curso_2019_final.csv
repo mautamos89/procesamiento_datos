@@ -1,0 +1,11 @@
+#alumnos_codigo;sexo;edad;nombre;apellidos;direccion;latitud;longitud
+A001901;Masculino;40;Alberto;Marín Torres;15, Carrer d'Alfons Moré, Salt, Gironès, Girona, Catalunya, 17190, España;41.970068003037056;2.799918764643337
+A001902;Femenino;26;Irene;Castro Abellán;9, Carrer de Valladolid, Eixample, Girona, Gironès, Girona, Catalunya, 17005, España;41.970178819153766;2.8100183936403678
+A001903;Femenino;29;María Teresa;Belen Cruz;4, Carrer de Josep Pla, Salt, Gironès, Girona, Catalunya, 17190, España;41.969982968629324;2.789998027863902
+A001904;Masculino;27;Ramón;Sánchez Acebes;Reserva natural parcial del volcà Montolivet, Carrer de les Hortènsies, Sant Pere Màrtir, Olot, Garrotxa, Girona, Catalunya, 17800, España;42.1819818;2.4884457
+A001905;Masculino;45;Ricardo;Romero Matos;Carrer del Serpent, Nou, Manlleu, Osona, Barcelona, Catalunya, 08560, España;42.00006612243239;2.278905463338939
+A001906;Masculino;28;Javier;Alonso Martínez;95, Carrer de Floridablanca, Sant Antoni, Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España;41.38126016880615;2.162184520222139
+A001907;Femenino;30;Carmen;Gómez Lucas;105, Carrer d'Aragó, la Nova Esquerra de l'Eixample, Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España;41.38473321748185;2.154980894250329
+A001908;Masculino;35;Jordi;Clos Pou;Jardins del Teatre Grec, Carrer de Cariteo, el Poble-sec, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España;41.37046025116613;2.1604542022806528
+A001909;Femenino;24;Anna;Batalla Lata;2B, Carrer de Simó Oller, el Gòtic, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08002, España;41.37982507287528;2.180157266239017
+A001910;Masculino;27;Juan;Zambrano Keita;5, Calle de Palencia, Cuatro Caminos, Tetuán, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 29039, España;40.44965586989457;-3.700249997707416
